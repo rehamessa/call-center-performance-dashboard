@@ -64,6 +64,6 @@ The following metrics are calculated to evaluate call center performance:
 
 Below is an image of the dashboard design. Replace the placeholder image with your actual dashboard image.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview]([https://github.com/rehamessa/call-center-performance-dashboard/blob/main/Image/CSAT-IMG.png])
 
 
